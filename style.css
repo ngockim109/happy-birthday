@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Dancing Script";
-    src: url(".assets/font/DancingScript-VariableFont_wght.ttf")
+    src: url("./assets/font/DancingScript-VariableFont_wght.ttf")
 }
 
 @font-face {
     font-family: "Love";
-    src: url(".assets/font/LOVEPARADISE-Two.ttf");
+    src: url("./assets/font/LOVEPARADISE-Two.ttf");
 }
 
 :root {
@@ -58,7 +58,7 @@
      left: 48%;
      width: 60px;
      height: 60px;
-     cursor: url('.assets/img/cursor-hover.svg'), auto;
+     cursor: url('./assets/img/cursor-hover.svg'), auto;
      animation: wiggle 1.5s 1s infinite alternate both;
 }
 html {
@@ -226,7 +226,7 @@ html {
     flex-direction: column;
     justify-content: center;
     margin-top: 190px;
-    cursor: url('.assets/img/cursor-hover.svg'), auto;
+    cursor: url('./assets/img/cursor-hover.svg'), auto;
 }
 .box {
     position: absolute;
@@ -272,7 +272,7 @@ html {
     position: absolute;
     bottom: 0px;
     z-index: -1;
-    cursor: url('.assets/img/cursor-hover.svg'), auto;
+    cursor: url('./assets/img/cursor-hover.svg'), auto;
 }
 
 
@@ -381,7 +381,7 @@ html {
     justify-content: center;
     align-items: center;
     margin-top: 300px;
-    cursor: url('.assets/img/cursor-heart.svg'), auto;
+    cursor: url('./assets/img/cursor-heart.svg'), auto;
     
 }
 .gift-cake > * {
@@ -516,7 +516,7 @@ html {
 .tablecloths {
     height: 37vh;
     width: 100%;
-    background-image: url(".assets/img/Tablecloths.jfif");
+    background-image: url("./assets/img/Tablecloths.jfif");
     background-repeat: repeat;
     position: absolute;
     left: 0;
@@ -543,11 +543,11 @@ html {
 }
 
 html {
-    cursor: url('.assets/img/cursor-heart.svg'), auto;
+    cursor: url('./assets/img/cursor-heart.svg'), auto;
 }
 
 .candle, .candle-fire, .candle-stick, .container-stick{
-    cursor: url('.assets/img/cursor-match.svg'), auto;
+    cursor: url('./assets/img/cursor-match.svg'), auto;
 }
 
 .candle-stick {
@@ -559,7 +559,7 @@ html {
     border-radius: 8px;
     transform: translate(-50%, -100%);
     transform-origin: bottom center;
-    cursor: url('.assets/img/cursor-match.svg'), auto;
+    cursor: url('./assets/img/cursor-match.svg'), auto;
     bottom: -16px;
 }
 
@@ -773,7 +773,7 @@ html {
 .cta {
     text-decoration: none;
     color: var(--text-primary-color);
-    cursor: url('.assets/img/cursor-hover.svg'), auto;
+    cursor: url('./assets/img/cursor-hover.svg'), auto;
     
 }
 .button-container {
@@ -884,7 +884,7 @@ html {
 /* birthday-card starts */
 .card-container {
     perspective: 1000px;
-    cursor: url('.assets/img/cursor-hover.svg'), auto;    
+    cursor: url('./assets/img/cursor-hover.svg'), auto;    
 }
 .card {
     width: 500px;
@@ -920,7 +920,7 @@ html {
 }
 
 .inside {
-    background-image: url(.assets/img/Background-Mail.svg);
+    background-image: url(./assets/img/Background-Mail.svg);
     background-repeat: no-repeat;
     transform: rotateY(180deg);
     backface-visibility: hidden;
