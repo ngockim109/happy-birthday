@@ -1,4 +1,5 @@
-🔥 # happy-birthday-to-lover 🔥
+# 🔥 happy-birthday-to-lover 🔥
+
 This is a happy birthday project written in HTML, CSS and Javascript for a lover. It includes lighting a candle on a birthday cake, receiving gifts and receiving greeting cards.
 
 Before you continue, ensure you meet the following requirements:
