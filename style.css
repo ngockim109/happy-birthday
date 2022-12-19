@@ -892,7 +892,7 @@ html {
     position: absolute;
     z-index: 5;
     top: 250px;
-    left: calc(50% - 511px/2 - 0.5px);
+    left: calc(50% - 500px/2 - 0.5px);
     transition: 2s;
     transform-style: preserve-3d;
 }
@@ -974,7 +974,7 @@ html {
 }
 
 .card-img {
-    height: 170px;
+    height: 200px;
     object-fit:scale-down;
 }
 
